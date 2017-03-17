@@ -1,0 +1,24 @@
+[
+    {
+    "Nombre" : "Escarabajo",
+    "PosX": 4,
+    "PosY": 13,	
+    "DimensionX": 2,
+    "DimensionY": 2,
+    "TriggerIniX":12,
+    "TriggerIniY":3,
+    "TriggerFinX":12,
+    "TriggerFinY":6
+    }, 
+    {
+    "Nombre" : "Mono",
+    "PosX": 4,
+    "PosY": 2,	
+    "DimensionX": 1,
+    "DimensionY": 0,
+    "TriggerIniX":0,
+    "TriggerIniY":0,
+    "TriggerFinX":0,
+    "TriggerFinY":0
+    }
+]

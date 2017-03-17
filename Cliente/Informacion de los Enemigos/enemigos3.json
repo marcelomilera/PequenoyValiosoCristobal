@@ -1,0 +1,13 @@
+[
+    {
+    "Nombre" : "Rata",
+    "PosX": 4,
+    "PosY": 11,	
+    "DimensionX": 5,
+    "DimensionY": 5,
+    "TriggerIniX":0,
+    "TriggerIniY":0,
+    "TriggerFinX":0,
+    "TriggerFinY":0
+    }
+]

@@ -1,0 +1,12 @@
+***************Instrucciones**************
+Movimientos:          ARRIBA
+            IZQUIERDA ABAJO DERECHA
+Cristobal:              W
+                      A S D
+Comandos Especiales: Q E
+    
+Hermana:                I
+                      J K L
+Comandos Especiales: U O
+
+Mostrar Tutorial: T
